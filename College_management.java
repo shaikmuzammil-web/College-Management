@@ -185,7 +185,7 @@ class Alist {
 		int node =0;
 		if(this.IsEmpty())
 		{
-			System.out.println("There is data of the student");
+			System.out.println("There is Data of the student");
 		}
 		else
 		{
