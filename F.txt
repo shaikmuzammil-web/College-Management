@@ -1,0 +1,10 @@
+1001	Dr. Rajesh	Computer Science	1234-8975-5463
+1002	Dr. Anitha Reddy	Information Technology	2344-5433-5443
+1003	Prof. Suresh	Electronics	8297-4532-4522
+1004	Dr. Kavitha Sharma	Mechanical Engineering	4534-6345-5435
+1005	Prof. Mohammed Arif	Civil Engineering	2345-6543-5634
+1006	Dr. Sneha Verma	Mathematics	4434-4532-6754
+1007	Prof. Priya Nair	Physics	2943-5435-5634
+1008	Dr. Rohit Singh	Chemistry	3452-7534-7454
+1009	Prof. Lakshmi Devi	English	3456-7653-8645
+1010	Dr. Kiran Patel	Electrical Engineering	8732-6523-9670
